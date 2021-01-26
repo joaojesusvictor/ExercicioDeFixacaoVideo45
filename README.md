@@ -1,2 +1,5 @@
 # ExercicioDeFixacaoV45
- Resolução dos exercícios de fixação
+
+Resolução do exercício de fixação do vídeo 45 do curso de C# da Udemy
+
+Utilizando Classes para calcular as dimensões de um retangulo e
