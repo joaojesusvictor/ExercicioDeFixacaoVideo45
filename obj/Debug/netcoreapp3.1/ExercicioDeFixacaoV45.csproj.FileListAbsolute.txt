@@ -1,0 +1,13 @@
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.exe
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.deps.json
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.runtimeconfig.json
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.runtimeconfig.dev.json
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.dll
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.pdb
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.csprojAssemblyReference.cache
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.AssemblyInfoInputs.cache
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.AssemblyInfo.cs
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.csproj.CoreCompileInputs.cache
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.dll
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.pdb
+C:\Users\regis\source\repos\ExercicioDeFixacaoV45\ExercicioDeFixacaoV45\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV45.genruntimeconfig.cache
